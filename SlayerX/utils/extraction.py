@@ -1,4 +1,4 @@
-from pyrogram.enums import MessageEntityTyp
+from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message, User
 
 from SlayerX import app
