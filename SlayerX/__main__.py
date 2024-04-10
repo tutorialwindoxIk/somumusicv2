@@ -15,7 +15,7 @@ from config import BANNED_USERS
 
 async def init():
     if (
-        not config.STRING
+        not config.STRING1
         and not config.STRING2
         and not config.STRING3
         and not config.STRING4
