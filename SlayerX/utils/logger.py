@@ -1,6 +1,6 @@
 from pyrogram.enums import ParseMode
 
-from SlayerX import ap
+from SlayerX import app
 from SlayerX.utils.database import is_on_off
 from config import LOGGER_ID
 
