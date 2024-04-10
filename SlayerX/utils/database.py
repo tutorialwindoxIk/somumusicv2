@@ -1,4 +1,4 @@
-import random
+import rando
 from typing import Dict, List, Union
 
 from SlayerX import userbot
